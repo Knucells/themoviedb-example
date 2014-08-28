@@ -1,3 +1,5 @@
 Example usage of the 'themovedb' gem
 
 http://themoviedb.herokuapp.com/
+
+<b>This rails app is using an old version of rails and should only be used as an example, to see possible uses for the API.</b>
